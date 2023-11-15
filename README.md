@@ -1,6 +1,6 @@
-# Climate Change
-As part of theodinproject projects inorder to create a landing page
-website project.
+# Climate-Change
+As part of TheOdinProject project inorder to create a landing page
+website.
 
 Gist of climate change and solutions.
 
