@@ -4,4 +4,6 @@ website.
 
 Gist of climate change and solutions.
 
+Images source- pixabay.com
+
 Do visit the page and drop your feedback.
