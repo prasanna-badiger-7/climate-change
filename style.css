@@ -10,6 +10,7 @@ body {
 
     display: flex;
     font-size: medium;
+    font-weight: 400;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
@@ -47,7 +48,7 @@ body {
 
     display: flex;
     flex-flow: row nowrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     gap: 100px;
 }
@@ -94,7 +95,12 @@ body {
     margin: -20px -8px 10px;
     padding: 20px 10px;
     
-    height: fit-content; 
+    height: fit-content;
+    
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .sub-head {
@@ -155,8 +161,8 @@ figure {
     background-color: cornflowerblue;
     border-radius: 10px;
 
-    margin: 100px 200px;
-    padding: 40px;
+    margin: 150px 200px;
+    padding: 60px;
     
     display: flex;
     flex-flow: row wrap;
@@ -193,6 +199,7 @@ footer {
     flex: 1;
 
     margin: -8px;
+    padding: 8px;
 }
 
 footer img {
@@ -200,7 +207,10 @@ footer img {
     height: auto;
 
     padding-left: 50px;
+    margin : 2px;
 }
+
+
 
 
 
